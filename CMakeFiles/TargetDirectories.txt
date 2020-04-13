@@ -1,0 +1,2 @@
+/root/ComputerNetwork/project/mto10client/src/CMakeFiles/Functions.dir
+/root/ComputerNetwork/project/mto10client/CMakeFiles/mto10client.dir

@@ -1,0 +1,31 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/include",
+                "/lib/gcc/x86_64-redhat-linux/4.8.2/include/",
+                "/usr/include/c++/4.8.2",
+                "/usr/include/c++/4.8.2/x86_64-redhat-linux"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c99",
+            "cppStandard": "c++11",
+            "compilerArgs": [],
+            "intelliSenseMode": "gcc-x64",
+            "browse": {
+                "path": [
+                    "${workspaceFolder}/**",
+                    "${workspaceFolder}/include",
+                    "/usr/include/c++/4.8.2/x86_64-redhat-linux",
+                    "/usr/include/c++/4.8.2/",
+                    "/usr/include/c++/4.8.2/x86_64-redhat-linux"
+                ],
+                "limitSymbolsToIncludedHeaders": true
+            }
+        }
+    ],
+    "version": 4
+}

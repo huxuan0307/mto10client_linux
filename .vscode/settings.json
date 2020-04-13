@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "ios": "cpp",
+        "iosfwd": "cpp",
+        "cwchar": "cpp",
+        "cstring": "cpp",
+        "chrono": "cpp",
+        "thread": "cpp",
+        "future": "cpp",
+        "iomanip": "cpp",
+        "*.tcc": "cpp",
+        "tuple": "cpp"
+    },
+    "cmake.configureOnOpen": false
+}

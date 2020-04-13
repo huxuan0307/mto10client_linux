@@ -1,0 +1,663 @@
+2020年04月10日 23:27:50 [    Info:97727]MTO10 CTOR 
+2020年04月10日 23:27:50 [    Info:97727]sock: 3 addr: 192.168.80.230 port: 5000 
+2020年04月10日 23:27:50 [    Info:97727]Connection estiblished succeccfully! 
+2020年04月10日 23:27:50 [    Info:97727]init()begin 
+2020年04月10日 23:27:50 [    Info:97727]readFromNet get 88 Bytes from Net 
+2020年04月10日 23:27:50 [    Info:97727]writeToNet put 179 Bytes to Net 
+2020年04月10日 23:27:50 [    Info:97727]readFromNet get 153 Bytes from Net 
+2020年04月10日 23:27:50 [    Info:97727]run()begin 
+2020年04月10日 23:27:50 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:50 [    Info:97727]send coordinate:  E0 
+2020年04月10日 23:27:50 [    Info:97727]readFromNet get 213 Bytes from Net 
+2020年04月10日 23:27:50 [    Info:97727]MergeSucceeded ,  score= 112 
+2020年04月10日 23:27:50 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:50 [    Info:97727]send coordinate:  C1 
+2020年04月10日 23:27:50 [    Info:97727]readFromNet get 213 Bytes from Net 
+2020年04月10日 23:27:50 [    Info:97727]MergeSucceeded ,  score= 124 
+2020年04月10日 23:27:50 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:50 [    Info:97727]send coordinate:  F1 
+2020年04月10日 23:27:50 [    Info:97727]readFromNet get 213 Bytes from Net 
+2020年04月10日 23:27:50 [    Info:97727]MergeSucceeded ,  score= 130 
+2020年04月10日 23:27:50 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:50 [    Info:97727]send coordinate:  E0 
+2020年04月10日 23:27:50 [    Info:97727]readFromNet get 213 Bytes from Net 
+2020年04月10日 23:27:50 [    Info:97727]MergeSucceeded ,  score= 166 
+2020年04月10日 23:27:50 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:50 [    Info:97727]send coordinate:  A0 
+2020年04月10日 23:27:50 [    Info:97727]readFromNet get 213 Bytes from Net 
+2020年04月10日 23:27:50 [    Info:97727]MergeSucceeded ,  score= 172 
+2020年04月10日 23:27:50 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:50 [    Info:97727]send coordinate:  C1 
+2020年04月10日 23:27:50 [    Info:97727]readFromNet get 213 Bytes from Net 
+2020年04月10日 23:27:51 [    Info:97727]MergeSucceeded ,  score= 196 
+2020年04月10日 23:27:51 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:51 [    Info:97727]send coordinate:  B0 
+2020年04月10日 23:27:51 [    Info:97727]readFromNet get 213 Bytes from Net 
+2020年04月10日 23:27:51 [    Info:97727]MergeSucceeded ,  score= 205 
+2020年04月10日 23:27:51 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:51 [    Info:97727]send coordinate:  F1 
+2020年04月10日 23:27:51 [    Info:97727]readFromNet get 213 Bytes from Net 
+2020年04月10日 23:27:51 [    Info:97727]MergeSucceeded ,  score= 229 
+2020年04月10日 23:27:51 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:51 [    Info:97727]send coordinate:  A1 
+2020年04月10日 23:27:51 [    Info:97727]readFromNet get 213 Bytes from Net 
+2020年04月10日 23:27:51 [    Info:97727]MergeSucceeded ,  score= 253 
+2020年04月10日 23:27:51 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:51 [    Info:97727]send coordinate:  F0 
+2020年04月10日 23:27:51 [    Info:97727]readFromNet get 214 Bytes from Net 
+2020年04月10日 23:27:51 [    Info:97727]MergeSucceeded ,  score= 487 
+2020年04月10日 23:27:51 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:51 [    Info:97727]send coordinate:  E3 
+2020年04月10日 23:27:51 [    Info:97727]readFromNet get 214 Bytes from Net 
+2020年04月10日 23:27:51 [    Info:97727]MergeSucceeded ,  score= 520 
+2020年04月10日 23:27:51 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:51 [    Info:97727]send coordinate:  F1 
+2020年04月10日 23:27:51 [    Info:97727]readFromNet get 214 Bytes from Net 
+2020年04月10日 23:27:51 [    Info:97727]MergeSucceeded ,  score= 616 
+2020年04月10日 23:27:51 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:51 [    Info:97727]send coordinate:  C4 
+2020年04月10日 23:27:51 [    Info:97727]readFromNet get 214 Bytes from Net 
+2020年04月10日 23:27:51 [    Info:97727]MergeSucceeded ,  score= 628 
+2020年04月10日 23:27:51 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:51 [    Info:97727]send coordinate:  A4 
+2020年04月10日 23:27:51 [    Info:97727]readFromNet get 214 Bytes from Net 
+2020年04月10日 23:27:51 [    Info:97727]MergeSucceeded ,  score= 634 
+2020年04月10日 23:27:51 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:51 [    Info:97727]send coordinate:  C3 
+2020年04月10日 23:27:51 [    Info:97727]readFromNet get 214 Bytes from Net 
+2020年04月10日 23:27:51 [    Info:97727]MergeSucceeded ,  score= 676 
+2020年04月10日 23:27:51 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:51 [    Info:97727]send coordinate:  B4 
+2020年04月10日 23:27:51 [    Info:97727]readFromNet get 214 Bytes from Net 
+2020年04月10日 23:27:51 [    Info:97727]MergeSucceeded ,  score= 688 
+2020年04月10日 23:27:51 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:51 [    Info:97727]send coordinate:  A3 
+2020年04月10日 23:27:51 [    Info:97727]readFromNet get 214 Bytes from Net 
+2020年04月10日 23:27:51 [    Info:97727]MergeSucceeded ,  score= 697 
+2020年04月10日 23:27:51 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:51 [    Info:97727]send coordinate:  A3 
+2020年04月10日 23:27:51 [    Info:97727]readFromNet get 214 Bytes from Net 
+2020年04月10日 23:27:51 [    Info:97727]MergeSucceeded ,  score= 715 
+2020年04月10日 23:27:51 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:51 [    Info:97727]send coordinate:  E4 
+2020年04月10日 23:27:51 [    Info:97727]readFromNet get 214 Bytes from Net 
+2020年04月10日 23:27:51 [    Info:97727]MergeSucceeded ,  score= 778 
+2020年04月10日 23:27:51 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:51 [    Info:97727]send coordinate:  C5 
+2020年04月10日 23:27:51 [    Info:97727]readFromNet get 214 Bytes from Net 
+2020年04月10日 23:27:51 [    Info:97727]MergeSucceeded ,  score= 802 
+2020年04月10日 23:27:51 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:51 [    Info:97727]send coordinate:  C5 
+2020年04月10日 23:27:51 [    Info:97727]readFromNet get 214 Bytes from Net 
+2020年04月10日 23:27:51 [    Info:97727]MergeSucceeded ,  score= 865 
+2020年04月10日 23:27:51 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:51 [    Info:97727]send coordinate:  C4 
+2020年04月10日 23:27:51 [    Info:97727]readFromNet get 214 Bytes from Net 
+2020年04月10日 23:27:51 [    Info:97727]MergeSucceeded ,  score= 874 
+2020年04月10日 23:27:51 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:51 [    Info:97727]send coordinate:  A4 
+2020年04月10日 23:27:51 [    Info:97727]readFromNet get 214 Bytes from Net 
+2020年04月10日 23:27:51 [    Info:97727]MergeSucceeded ,  score= 880 
+2020年04月10日 23:27:51 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:51 [    Info:97727]send coordinate:  A3 
+2020年04月10日 23:27:51 [    Info:97727]readFromNet get 214 Bytes from Net 
+2020年04月10日 23:27:51 [    Info:97727]MergeSucceeded ,  score= 892 
+2020年04月10日 23:27:51 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:51 [    Info:97727]send coordinate:  B3 
+2020年04月10日 23:27:51 [    Info:97727]readFromNet get 214 Bytes from Net 
+2020年04月10日 23:27:51 [    Info:97727]MergeSucceeded ,  score= 928 
+2020年04月10日 23:27:51 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:51 [    Info:97727]send coordinate:  A3 
+2020年04月10日 23:27:51 [    Info:97727]readFromNet get 214 Bytes from Net 
+2020年04月10日 23:27:51 [    Info:97727]MergeSucceeded ,  score= 940 
+2020年04月10日 23:27:51 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:51 [    Info:97727]send coordinate:  A4 
+2020年04月10日 23:27:51 [    Info:97727]readFromNet get 214 Bytes from Net 
+2020年04月10日 23:27:51 [    Info:97727]MergeSucceeded ,  score= 946 
+2020年04月10日 23:27:51 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:51 [    Info:97727]send coordinate:  B5 
+2020年04月10日 23:27:51 [    Info:97727]readFromNet get 214 Bytes from Net 
+2020年04月10日 23:27:51 [    Info:97727]MergeSucceeded ,  score= 964 
+2020年04月10日 23:27:51 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:51 [    Info:97727]send coordinate:  B4 
+2020年04月10日 23:27:51 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:51 [    Info:97727]MergeSucceeded ,  score= 1009 
+2020年04月10日 23:27:51 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:51 [    Info:97727]send coordinate:  E2 
+2020年04月10日 23:27:51 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:51 [    Info:97727]MergeSucceeded ,  score= 1036 
+2020年04月10日 23:27:51 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:51 [    Info:97727]send coordinate:  D0 
+2020年04月10日 23:27:51 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:51 [    Info:97727]MergeSucceeded ,  score= 1048 
+2020年04月10日 23:27:51 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:51 [    Info:97727]send coordinate:  B1 
+2020年04月10日 23:27:51 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:51 [    Info:97727]MergeSucceeded ,  score= 1054 
+2020年04月10日 23:27:51 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:51 [    Info:97727]send coordinate:  B0 
+2020年04月10日 23:27:51 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:51 [    Info:97727]MergeSucceeded ,  score= 1084 
+2020年04月10日 23:27:51 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:51 [    Info:97727]send coordinate:  B1 
+2020年04月10日 23:27:51 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:51 [    Info:97727]MergeSucceeded ,  score= 1096 
+2020年04月10日 23:27:51 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:51 [    Info:97727]send coordinate:  B2 
+2020年04月10日 23:27:51 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:51 [    Info:97727]MergeSucceeded ,  score= 1102 
+2020年04月10日 23:27:51 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:51 [    Info:97727]send coordinate:  D0 
+2020年04月10日 23:27:51 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:51 [    Info:97727]MergeSucceeded ,  score= 1156 
+2020年04月10日 23:27:51 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:51 [    Info:97727]send coordinate:  C1 
+2020年04月10日 23:27:51 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:51 [    Info:97727]MergeSucceeded ,  score= 1168 
+2020年04月10日 23:27:51 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:51 [    Info:97727]send coordinate:  B0 
+2020年04月10日 23:27:51 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:51 [    Info:97727]MergeSucceeded ,  score= 1186 
+2020年04月10日 23:27:51 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:51 [    Info:97727]send coordinate:  E1 
+2020年04月10日 23:27:51 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:51 [    Info:97727]MergeSucceeded ,  score= 1390 
+2020年04月10日 23:27:51 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:51 [    Info:97727]send coordinate:  C3 
+2020年04月10日 23:27:51 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:51 [    Info:97727]MergeSucceeded ,  score= 1399 
+2020年04月10日 23:27:51 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:51 [    Info:97727]send coordinate:  B5 
+2020年04月10日 23:27:51 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:51 [    Info:97727]MergeSucceeded ,  score= 1405 
+2020年04月10日 23:27:51 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:51 [    Info:97727]send coordinate:  C3 
+2020年04月10日 23:27:51 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:51 [    Info:97727]MergeSucceeded ,  score= 1441 
+2020年04月10日 23:27:51 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:51 [    Info:97727]send coordinate:  E4 
+2020年04月10日 23:27:51 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:51 [    Info:97727]MergeSucceeded ,  score= 1477 
+2020年04月10日 23:27:51 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:51 [    Info:97727]send coordinate:  B5 
+2020年04月10日 23:27:51 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:52 [    Info:97727]MergeSucceeded ,  score= 1489 
+2020年04月10日 23:27:52 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:52 [    Info:97727]send coordinate:  F5 
+2020年04月10日 23:27:52 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:52 [    Info:97727]MergeSucceeded ,  score= 1561 
+2020年04月10日 23:27:52 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:52 [    Info:97727]send coordinate:  D2 
+2020年04月10日 23:27:52 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:52 [    Info:97727]MergeSucceeded ,  score= 1597 
+2020年04月10日 23:27:52 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:52 [    Info:97727]send coordinate:  C2 
+2020年04月10日 23:27:52 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:52 [    Info:97727]MergeSucceeded ,  score= 1603 
+2020年04月10日 23:27:52 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:52 [    Info:97727]send coordinate:  C2 
+2020年04月10日 23:27:52 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:52 [    Info:97727]MergeSucceeded ,  score= 1627 
+2020年04月10日 23:27:52 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:52 [    Info:97727]send coordinate:  A0 
+2020年04月10日 23:27:52 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:52 [    Info:97727]MergeSucceeded ,  score= 1645 
+2020年04月10日 23:27:52 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:52 [    Info:97727]send coordinate:  E4 
+2020年04月10日 23:27:52 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:52 [    Info:97727]MergeSucceeded ,  score= 1705 
+2020年04月10日 23:27:52 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:52 [    Info:97727]send coordinate:  B3 
+2020年04月10日 23:27:52 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:52 [    Info:97727]MergeSucceeded ,  score= 1759 
+2020年04月10日 23:27:52 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:52 [    Info:97727]send coordinate:  B4 
+2020年04月10日 23:27:52 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:52 [    Info:97727]MergeSucceeded ,  score= 1783 
+2020年04月10日 23:27:52 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:52 [    Info:97727]send coordinate:  A1 
+2020年04月10日 23:27:52 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:52 [    Info:97727]MergeSucceeded ,  score= 1801 
+2020年04月10日 23:27:52 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:52 [    Info:97727]send coordinate:  C0 
+2020年04月10日 23:27:52 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:52 [    Info:97727]MergeSucceeded ,  score= 1873 
+2020年04月10日 23:27:52 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:52 [    Info:97727]send coordinate:  D1 
+2020年04月10日 23:27:52 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:52 [    Info:97727]MergeSucceeded ,  score= 1921 
+2020年04月10日 23:27:52 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:52 [    Info:97727]send coordinate:  D0 
+2020年04月10日 23:27:52 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:52 [    Info:97727]MergeSucceeded ,  score= 1957 
+2020年04月10日 23:27:52 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:52 [    Info:97727]send coordinate:  A1 
+2020年04月10日 23:27:52 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:52 [    Info:97727]MergeSucceeded ,  score= 1975 
+2020年04月10日 23:27:52 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:52 [    Info:97727]send coordinate:  A2 
+2020年04月10日 23:27:52 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:52 [    Info:97727]MergeSucceeded ,  score= 1981 
+2020年04月10日 23:27:52 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:52 [    Info:97727]send coordinate:  C3 
+2020年04月10日 23:27:52 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:52 [    Info:97727]MergeSucceeded ,  score= 2017 
+2020年04月10日 23:27:52 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:52 [    Info:97727]send coordinate:  B3 
+2020年04月10日 23:27:52 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:52 [    Info:97727]MergeSucceeded ,  score= 2053 
+2020年04月10日 23:27:52 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:52 [    Info:97727]send coordinate:  A4 
+2020年04月10日 23:27:52 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:52 [    Info:97727]MergeSucceeded ,  score= 2059 
+2020年04月10日 23:27:52 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:52 [    Info:97727]send coordinate:  A3 
+2020年04月10日 23:27:52 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:52 [    Info:97727]MergeSucceeded ,  score= 2077 
+2020年04月10日 23:27:52 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:52 [    Info:97727]send coordinate:  A3 
+2020年04月10日 23:27:52 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:52 [    Info:97727]MergeSucceeded ,  score= 2095 
+2020年04月10日 23:27:52 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:52 [    Info:97727]send coordinate:  B3 
+2020年04月10日 23:27:52 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:52 [    Info:97727]MergeSucceeded ,  score= 2143 
+2020年04月10日 23:27:52 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:52 [    Info:97727]send coordinate:  A2 
+2020年04月10日 23:27:52 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:52 [    Info:97727]MergeSucceeded ,  score= 2149 
+2020年04月10日 23:27:52 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:52 [    Info:97727]send coordinate:  B5 
+2020年04月10日 23:27:52 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:52 [    Info:97727]MergeSucceeded ,  score= 2155 
+2020年04月10日 23:27:52 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:52 [    Info:97727]send coordinate:  B2 
+2020年04月10日 23:27:52 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:52 [    Info:97727]MergeSucceeded ,  score= 2167 
+2020年04月10日 23:27:52 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:52 [    Info:97727]send coordinate:  C5 
+2020年04月10日 23:27:52 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:52 [    Info:97727]MergeSucceeded ,  score= 2179 
+2020年04月10日 23:27:52 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:52 [    Info:97727]send coordinate:  B4 
+2020年04月10日 23:27:52 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:52 [    Info:97727]MergeSucceeded ,  score= 2197 
+2020年04月10日 23:27:52 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:52 [    Info:97727]send coordinate:  D5 
+2020年04月10日 23:27:52 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:52 [    Info:97727]MergeSucceeded ,  score= 2215 
+2020年04月10日 23:27:52 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:52 [    Info:97727]send coordinate:  E1 
+2020年04月10日 23:27:52 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:52 [    Info:97727]MergeSucceeded ,  score= 2305 
+2020年04月10日 23:27:52 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:52 [    Info:97727]send coordinate:  A0 
+2020年04月10日 23:27:52 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:52 [    Info:97727]MergeSucceeded ,  score= 2311 
+2020年04月10日 23:27:52 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:52 [    Info:97727]send coordinate:  C2 
+2020年04月10日 23:27:52 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:52 [    Info:97727]MergeSucceeded ,  score= 2317 
+2020年04月10日 23:27:52 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:52 [    Info:97727]send coordinate:  C2 
+2020年04月10日 23:27:52 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:52 [    Info:97727]MergeSucceeded ,  score= 2329 
+2020年04月10日 23:27:52 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:52 [    Info:97727]send coordinate:  D1 
+2020年04月10日 23:27:52 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:52 [    Info:97727]MergeSucceeded ,  score= 2356 
+2020年04月10日 23:27:52 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:52 [    Info:97727]send coordinate:  B3 
+2020年04月10日 23:27:52 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:52 [    Info:97727]MergeSucceeded ,  score= 2374 
+2020年04月10日 23:27:52 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:52 [    Info:97727]send coordinate:  A3 
+2020年04月10日 23:27:52 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:52 [    Info:97727]MergeSucceeded ,  score= 2386 
+2020年04月10日 23:27:52 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:52 [    Info:97727]send coordinate:  A3 
+2020年04月10日 23:27:52 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:52 [    Info:97727]MergeSucceeded ,  score= 2404 
+2020年04月10日 23:27:52 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:52 [    Info:97727]send coordinate:  C3 
+2020年04月10日 23:27:52 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:52 [    Info:97727]MergeSucceeded ,  score= 2488 
+2020年04月10日 23:27:52 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:52 [    Info:97727]send coordinate:  C2 
+2020年04月10日 23:27:52 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:52 [    Info:97727]MergeSucceeded ,  score= 2494 
+2020年04月10日 23:27:52 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:52 [    Info:97727]send coordinate:  C2 
+2020年04月10日 23:27:52 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:52 [    Info:97727]MergeSucceeded ,  score= 2512 
+2020年04月10日 23:27:52 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:52 [    Info:97727]send coordinate:  B2 
+2020年04月10日 23:27:52 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:52 [    Info:97727]MergeSucceeded ,  score= 2572 
+2020年04月10日 23:27:52 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:52 [    Info:97727]send coordinate:  D0 
+2020年04月10日 23:27:52 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:53 [    Info:97727]MergeSucceeded ,  score= 2596 
+2020年04月10日 23:27:53 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:53 [    Info:97727]send coordinate:  C1 
+2020年04月10日 23:27:53 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:53 [    Info:97727]MergeSucceeded ,  score= 2614 
+2020年04月10日 23:27:53 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:53 [    Info:97727]send coordinate:  C1 
+2020年04月10日 23:27:53 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:53 [    Info:97727]MergeSucceeded ,  score= 2638 
+2020年04月10日 23:27:53 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:53 [    Info:97727]send coordinate:  D0 
+2020年04月10日 23:27:53 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:53 [    Info:97727]MergeSucceeded ,  score= 2833 
+2020年04月10日 23:27:53 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:53 [    Info:97727]send coordinate:  C4 
+2020年04月10日 23:27:53 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:53 [    Info:97727]MergeSucceeded ,  score= 2839 
+2020年04月10日 23:27:53 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:53 [    Info:97727]send coordinate:  E2 
+2020年04月10日 23:27:53 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:53 [    Info:97727]MergeSucceeded ,  score= 2857 
+2020年04月10日 23:27:53 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:53 [    Info:97727]send coordinate:  C0 
+2020年04月10日 23:27:53 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:53 [    Info:97727]MergeSucceeded ,  score= 2875 
+2020年04月10日 23:27:53 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:53 [    Info:97727]send coordinate:  A3 
+2020年04月10日 23:27:53 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:53 [    Info:97727]MergeSucceeded ,  score= 2887 
+2020年04月10日 23:27:53 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:53 [    Info:97727]send coordinate:  D3 
+2020年04月10日 23:27:53 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:53 [    Info:97727]MergeSucceeded ,  score= 2968 
+2020年04月10日 23:27:53 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:53 [    Info:97727]send coordinate:  B3 
+2020年04月10日 23:27:53 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:53 [    Info:97727]MergeSucceeded ,  score= 2974 
+2020年04月10日 23:27:53 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:53 [    Info:97727]send coordinate:  B1 
+2020年04月10日 23:27:53 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:53 [    Info:97727]MergeSucceeded ,  score= 2992 
+2020年04月10日 23:27:53 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:53 [    Info:97727]send coordinate:  B1 
+2020年04月10日 23:27:53 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:53 [    Info:97727]MergeSucceeded ,  score= 3019 
+2020年04月10日 23:27:53 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:53 [    Info:97727]send coordinate:  B0 
+2020年04月10日 23:27:53 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:53 [    Info:97727]MergeSucceeded ,  score= 3055 
+2020年04月10日 23:27:53 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:53 [    Info:97727]send coordinate:  D3 
+2020年04月10日 23:27:53 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:53 [    Info:97727]MergeSucceeded ,  score= 3079 
+2020年04月10日 23:27:53 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:53 [    Info:97727]send coordinate:  E4 
+2020年04月10日 23:27:53 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:53 [    Info:97727]MergeSucceeded ,  score= 3199 
+2020年04月10日 23:27:53 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:53 [    Info:97727]send coordinate:  C0 
+2020年04月10日 23:27:53 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:53 [    Info:97727]MergeSucceeded ,  score= 3208 
+2020年04月10日 23:27:53 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:53 [    Info:97727]send coordinate:  E3 
+2020年04月10日 23:27:53 [    Info:97727]readFromNet get 215 Bytes from Net 
+2020年04月10日 23:27:53 [    Info:97727]MergeSucceeded ,  score= 3217 
+2020年04月10日 23:27:53 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:53 [    Info:97727]send coordinate:  C0 
+2020年04月10日 23:27:53 [    Info:97727]readFromNet get 216 Bytes from Net 
+2020年04月10日 23:27:53 [    Info:97727]MergeSucceeded ,  score= 3229 
+2020年04月10日 23:27:53 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:53 [    Info:97727]send coordinate:  A0 
+2020年04月10日 23:27:53 [    Info:97727]readFromNet get 216 Bytes from Net 
+2020年04月10日 23:27:53 [    Info:97727]MergeSucceeded ,  score= 3235 
+2020年04月10日 23:27:53 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:53 [    Info:97727]send coordinate:  F3 
+2020年04月10日 23:27:53 [    Info:97727]readFromNet get 216 Bytes from Net 
+2020年04月10日 23:27:53 [    Info:97727]MergeSucceeded ,  score= 3247 
+2020年04月10日 23:27:53 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:53 [    Info:97727]send coordinate:  D3 
+2020年04月10日 23:27:53 [    Info:97727]readFromNet get 216 Bytes from Net 
+2020年04月10日 23:27:53 [    Info:97727]MergeSucceeded ,  score= 3259 
+2020年04月10日 23:27:53 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:53 [    Info:97727]send coordinate:  E2 
+2020年04月10日 23:27:53 [    Info:97727]readFromNet get 216 Bytes from Net 
+2020年04月10日 23:27:53 [    Info:97727]MergeSucceeded ,  score= 3313 
+2020年04月10日 23:27:53 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:53 [    Info:97727]send coordinate:  A1 
+2020年04月10日 23:27:53 [    Info:97727]readFromNet get 216 Bytes from Net 
+2020年04月10日 23:27:53 [    Info:97727]MergeSucceeded ,  score= 3319 
+2020年04月10日 23:27:53 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:53 [    Info:97727]send coordinate:  A0 
+2020年04月10日 23:27:53 [    Info:97727]readFromNet get 216 Bytes from Net 
+2020年04月10日 23:27:53 [    Info:97727]MergeSucceeded ,  score= 3331 
+2020年04月10日 23:27:53 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:53 [    Info:97727]send coordinate:  C0 
+2020年04月10日 23:27:53 [    Info:97727]readFromNet get 216 Bytes from Net 
+2020年04月10日 23:27:53 [    Info:97727]MergeSucceeded ,  score= 3349 
+2020年04月10日 23:27:53 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:53 [    Info:97727]send coordinate:  A1 
+2020年04月10日 23:27:53 [    Info:97727]readFromNet get 216 Bytes from Net 
+2020年04月10日 23:27:53 [    Info:97727]MergeSucceeded ,  score= 3355 
+2020年04月10日 23:27:53 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:53 [    Info:97727]send coordinate:  A1 
+2020年04月10日 23:27:53 [    Info:97727]readFromNet get 216 Bytes from Net 
+2020年04月10日 23:27:53 [    Info:97727]MergeSucceeded ,  score= 3367 
+2020年04月10日 23:27:53 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:53 [    Info:97727]send coordinate:  A0 
+2020年04月10日 23:27:53 [    Info:97727]readFromNet get 216 Bytes from Net 
+2020年04月10日 23:27:53 [    Info:97727]MergeSucceeded ,  score= 3385 
+2020年04月10日 23:27:53 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:53 [    Info:97727]send coordinate:  E2 
+2020年04月10日 23:27:53 [    Info:97727]readFromNet get 216 Bytes from Net 
+2020年04月10日 23:27:53 [    Info:97727]MergeSucceeded ,  score= 3517 
+2020年04月10日 23:27:53 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:53 [    Info:97727]send coordinate:  D1 
+2020年04月10日 23:27:53 [    Info:97727]readFromNet get 216 Bytes from Net 
+2020年04月10日 23:27:53 [    Info:97727]MergeSucceeded ,  score= 3541 
+2020年04月10日 23:27:53 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:53 [    Info:97727]send coordinate:  A3 
+2020年04月10日 23:27:53 [    Info:97727]readFromNet get 216 Bytes from Net 
+2020年04月10日 23:27:53 [    Info:97727]MergeSucceeded ,  score= 3553 
+2020年04月10日 23:27:53 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:53 [    Info:97727]send coordinate:  B2 
+2020年04月10日 23:27:53 [    Info:97727]readFromNet get 216 Bytes from Net 
+2020年04月10日 23:27:53 [    Info:97727]MergeSucceeded ,  score= 3580 
+2020年04月10日 23:27:53 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:53 [    Info:97727]send coordinate:  A3 
+2020年04月10日 23:27:53 [    Info:97727]readFromNet get 216 Bytes from Net 
+2020年04月10日 23:27:53 [    Info:97727]MergeSucceeded ,  score= 3592 
+2020年04月10日 23:27:53 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:53 [    Info:97727]send coordinate:  B2 
+2020年04月10日 23:27:53 [    Info:97727]readFromNet get 216 Bytes from Net 
+2020年04月10日 23:27:53 [    Info:97727]MergeSucceeded ,  score= 3616 
+2020年04月10日 23:27:53 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:53 [    Info:97727]send coordinate:  D4 
+2020年04月10日 23:27:53 [    Info:97727]readFromNet get 216 Bytes from Net 
+2020年04月10日 23:27:53 [    Info:97727]MergeSucceeded ,  score= 3721 
+2020年04月10日 23:27:53 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:53 [    Info:97727]send coordinate:  C1 
+2020年04月10日 23:27:53 [    Info:97727]readFromNet get 216 Bytes from Net 
+2020年04月10日 23:27:53 [    Info:97727]MergeSucceeded ,  score= 3727 
+2020年04月10日 23:27:53 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:53 [    Info:97727]send coordinate:  A2 
+2020年04月10日 23:27:53 [    Info:97727]readFromNet get 216 Bytes from Net 
+2020年04月10日 23:27:53 [    Info:97727]MergeSucceeded ,  score= 3733 
+2020年04月10日 23:27:53 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:53 [    Info:97727]send coordinate:  C1 
+2020年04月10日 23:27:53 [    Info:97727]readFromNet get 216 Bytes from Net 
+2020年04月10日 23:27:53 [    Info:97727]MergeSucceeded ,  score= 3745 
+2020年04月10日 23:27:53 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:53 [    Info:97727]send coordinate:  A1 
+2020年04月10日 23:27:53 [    Info:97727]readFromNet get 216 Bytes from Net 
+2020年04月10日 23:27:54 [    Info:97727]MergeSucceeded ,  score= 3757 
+2020年04月10日 23:27:54 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:54 [    Info:97727]send coordinate:  D1 
+2020年04月10日 23:27:54 [    Info:97727]readFromNet get 216 Bytes from Net 
+2020年04月10日 23:27:54 [    Info:97727]MergeSucceeded ,  score= 3775 
+2020年04月10日 23:27:54 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:54 [    Info:97727]send coordinate:  B1 
+2020年04月10日 23:27:54 [    Info:97727]readFromNet get 216 Bytes from Net 
+2020年04月10日 23:27:54 [    Info:97727]MergeSucceeded ,  score= 3793 
+2020年04月10日 23:27:54 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:54 [    Info:97727]send coordinate:  C3 
+2020年04月10日 23:27:54 [    Info:97727]readFromNet get 216 Bytes from Net 
+2020年04月10日 23:27:54 [    Info:97727]MergeSucceeded ,  score= 3811 
+2020年04月10日 23:27:54 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:54 [    Info:97727]send coordinate:  C2 
+2020年04月10日 23:27:54 [    Info:97727]readFromNet get 216 Bytes from Net 
+2020年04月10日 23:27:54 [    Info:97727]MergeSucceeded ,  score= 3883 
+2020年04月10日 23:27:54 [    Info:97727]readFromNet get 216 Bytes from Net 
+2020年04月10日 23:27:54 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:54 [    Info:97727]send coordinate:  A0 
+2020年04月10日 23:27:54 [    Info:97727]MergeSucceeded ,  score= 3889 
+2020年04月10日 23:27:54 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:54 [    Info:97727]send coordinate:  A0 
+2020年04月10日 23:27:54 [    Info:97727]readFromNet get 216 Bytes from Net 
+2020年04月10日 23:27:54 [    Info:97727]MergeSucceeded ,  score= 3901 
+2020年04月10日 23:27:54 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:54 [    Info:97727]send coordinate:  D3 
+2020年04月10日 23:27:54 [    Info:97727]readFromNet get 216 Bytes from Net 
+2020年04月10日 23:27:54 [    Info:97727]MergeSucceeded ,  score= 3913 
+2020年04月10日 23:27:54 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:54 [    Info:97727]send coordinate:  D3 
+2020年04月10日 23:27:54 [    Info:97727]readFromNet get 216 Bytes from Net 
+2020年04月10日 23:27:54 [    Info:97727]MergeSucceeded ,  score= 3931 
+2020年04月10日 23:27:54 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:54 [    Info:97727]send coordinate:  C2 
+2020年04月10日 23:27:54 [    Info:97727]readFromNet get 216 Bytes from Net 
+2020年04月10日 23:27:54 [    Info:97727]MergeSucceeded ,  score= 3991 
+2020年04月10日 23:27:54 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:54 [    Info:97727]send coordinate:  B2 
+2020年04月10日 23:27:54 [    Info:97727]readFromNet get 216 Bytes from Net 
+2020年04月10日 23:27:54 [    Info:97727]MergeSucceeded ,  score= 4000 
+2020年04月10日 23:27:54 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:54 [    Info:97727]send coordinate:  C4 
+2020年04月10日 23:27:54 [    Info:97727]readFromNet get 216 Bytes from Net 
+2020年04月10日 23:27:54 [    Info:97727]MergeSucceeded ,  score= 4024 
+2020年04月10日 23:27:54 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:54 [    Info:97727]send coordinate:  C4 
+2020年04月10日 23:27:54 [    Info:97727]readFromNet get 216 Bytes from Net 
+2020年04月10日 23:27:54 [    Info:97727]MergeSucceeded ,  score= 4054 
+2020年04月10日 23:27:54 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:54 [    Info:97727]send coordinate:  E3 
+2020年04月10日 23:27:54 [    Info:97727]readFromNet get 216 Bytes from Net 
+2020年04月10日 23:27:54 [    Info:97727]MergeSucceeded ,  score= 4126 
+2020年04月10日 23:27:54 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:54 [    Info:97727]send coordinate:  C4 
+2020年04月10日 23:27:54 [    Info:97727]readFromNet get 216 Bytes from Net 
+2020年04月10日 23:27:54 [    Info:97727]MergeSucceeded ,  score= 4135 
+2020年04月10日 23:27:54 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:54 [    Info:97727]send coordinate:  F4 
+2020年04月10日 23:27:54 [    Info:97727]readFromNet get 216 Bytes from Net 
+2020年04月10日 23:27:54 [    Info:97727]MergeSucceeded ,  score= 4144 
+2020年04月10日 23:27:54 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:54 [    Info:97727]send coordinate:  B5 
+2020年04月10日 23:27:54 [    Info:97727]readFromNet get 216 Bytes from Net 
+2020年04月10日 23:27:54 [    Info:97727]MergeSucceeded ,  score= 4156 
+2020年04月10日 23:27:54 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:54 [    Info:97727]send coordinate:  F5 
+2020年04月10日 23:27:54 [    Info:97727]readFromNet get 216 Bytes from Net 
+2020年04月10日 23:27:54 [    Info:97727]MergeSucceeded ,  score= 4180 
+2020年04月10日 23:27:54 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:54 [    Info:97727]send coordinate:  C4 
+2020年04月10日 23:27:54 [    Info:97727]readFromNet get 216 Bytes from Net 
+2020年04月10日 23:27:54 [    Info:97727]MergeSucceeded ,  score= 4198 
+2020年04月10日 23:27:54 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:54 [    Info:97727]send coordinate:  E4 
+2020年04月10日 23:27:54 [    Info:97727]readFromNet get 216 Bytes from Net 
+2020年04月10日 23:27:54 [    Info:97727]MergeSucceeded ,  score= 4216 
+2020年04月10日 23:27:54 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:54 [    Info:97727]send coordinate:  F5 
+2020年04月10日 23:27:54 [    Info:97727]readFromNet get 216 Bytes from Net 
+2020年04月10日 23:27:54 [    Info:97727]MergeSucceeded ,  score= 4261 
+2020年04月10日 23:27:54 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:54 [    Info:97727]send coordinate:  D2 
+2020年04月10日 23:27:54 [    Info:97727]readFromNet get 216 Bytes from Net 
+2020年04月10日 23:27:54 [    Info:97727]MergeSucceeded ,  score= 4315 
+2020年04月10日 23:27:54 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:54 [    Info:97727]send coordinate:  C2 
+2020年04月10日 23:27:54 [    Info:97727]readFromNet get 216 Bytes from Net 
+2020年04月10日 23:27:54 [    Info:97727]MergeSucceeded ,  score= 4327 
+2020年04月10日 23:27:54 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:54 [    Info:97727]send coordinate:  C2 
+2020年04月10日 23:27:54 [    Info:97727]readFromNet get 216 Bytes from Net 
+2020年04月10日 23:27:54 [    Info:97727]MergeSucceeded ,  score= 4354 
+2020年04月10日 23:27:54 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:54 [    Info:97727]send coordinate:  C2 
+2020年04月10日 23:27:54 [    Info:97727]readFromNet get 216 Bytes from Net 
+2020年04月10日 23:27:54 [    Info:97727]MergeSucceeded ,  score= 4402 
+2020年04月10日 23:27:54 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:54 [    Info:97727]send coordinate:  C3 
+2020年04月10日 23:27:54 [    Info:97727]readFromNet get 216 Bytes from Net 
+2020年04月10日 23:27:54 [    Info:97727]MergeSucceeded ,  score= 4414 
+2020年04月10日 23:27:54 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:54 [    Info:97727]send coordinate:  A3 
+2020年04月10日 23:27:54 [    Info:97727]readFromNet get 216 Bytes from Net 
+2020年04月10日 23:27:54 [    Info:97727]MergeSucceeded ,  score= 4420 
+2020年04月10日 23:27:54 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:54 [    Info:97727]send coordinate:  A3 
+2020年04月10日 23:27:54 [    Info:97727]readFromNet get 216 Bytes from Net 
+2020年04月10日 23:27:54 [    Info:97727]MergeSucceeded ,  score= 4432 
+2020年04月10日 23:27:54 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:54 [    Info:97727]send coordinate:  B2 
+2020年04月10日 23:27:54 [    Info:97727]readFromNet get 216 Bytes from Net 
+2020年04月10日 23:27:54 [    Info:97727]MergeSucceeded ,  score= 4468 
+2020年04月10日 23:27:54 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:54 [    Info:97727]send coordinate:  C3 
+2020年04月10日 23:27:54 [    Info:97727]readFromNet get 216 Bytes from Net 
+2020年04月10日 23:27:54 [    Info:97727]MergeSucceeded ,  score= 4486 
+2020年04月10日 23:27:54 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:54 [    Info:97727]send coordinate:  D3 
+2020年04月10日 23:27:54 [    Info:97727]readFromNet get 216 Bytes from Net 
+2020年04月10日 23:27:54 [    Info:97727]MergeSucceeded ,  score= 4522 
+2020年04月10日 23:27:54 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:54 [    Info:97727]readFromNet get 216 Bytes from Net 
+2020年04月10日 23:27:54 [    Info:97727]send coordinate:  B4 
+2020年04月10日 23:27:54 [    Info:97727]MergeSucceeded ,  score= 4528 
+2020年04月10日 23:27:54 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:54 [    Info:97727]send coordinate:  A2 
+2020年04月10日 23:27:54 [    Info:97727]readFromNet get 216 Bytes from Net 
+2020年04月10日 23:27:54 [    Info:97727]MergeSucceeded ,  score= 4564 
+2020年04月10日 23:27:54 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:54 [    Info:97727]send coordinate:  C0 
+2020年04月10日 23:27:54 [    Info:97727]readFromNet get 216 Bytes from Net 
+2020年04月10日 23:27:54 [    Info:97727]MergeSucceeded ,  score= 4654 
+2020年04月10日 23:27:54 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:54 [    Info:97727]send coordinate:  C1 
+2020年04月10日 23:27:54 [    Info:97727]readFromNet get 216 Bytes from Net 
+2020年04月10日 23:27:54 [    Info:97727]MergeSucceeded ,  score= 4660 
+2020年04月10日 23:27:54 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:54 [    Info:97727]send coordinate:  B2 
+2020年04月10日 23:27:54 [    Info:97727]readFromNet get 216 Bytes from Net 
+2020年04月10日 23:27:54 [    Info:97727]MergeSucceeded ,  score= 4696 
+2020年04月10日 23:27:54 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:54 [    Info:97727]send coordinate:  B1 
+2020年04月10日 23:27:54 [    Info:97727]readFromNet get 216 Bytes from Net 
+2020年04月10日 23:27:54 [    Info:97727]MergeSucceeded ,  score= 4723 
+2020年04月10日 23:27:54 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:54 [    Info:97727]send coordinate:  B1 
+2020年04月10日 23:27:54 [    Info:97727]readFromNet get 216 Bytes from Net 
+2020年04月10日 23:27:54 [    Info:97727]MergeSucceeded ,  score= 4759 
+2020年04月10日 23:27:54 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:54 [    Info:97727]send coordinate:  B1 
+2020年04月10日 23:27:54 [    Info:97727]readFromNet get 216 Bytes from Net 
+2020年04月10日 23:27:54 [    Info:97727]MergeSucceeded ,  score= 4789 
+2020年04月10日 23:27:54 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:54 [    Info:97727]send coordinate:  A1 
+2020年04月10日 23:27:54 [    Info:97727]readFromNet get 216 Bytes from Net 
+2020年04月10日 23:27:54 [    Info:97727]MergeSucceeded ,  score= 4807 
+2020年04月10日 23:27:54 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:54 [    Info:97727]send coordinate:  A0 
+2020年04月10日 23:27:54 [    Info:97727]readFromNet get 216 Bytes from Net 
+2020年04月10日 23:27:55 [    Info:97727]MergeSucceeded ,  score= 4843 
+2020年04月10日 23:27:55 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:55 [    Info:97727]send coordinate:  B2 
+2020年04月10日 23:27:55 [    Info:97727]readFromNet get 216 Bytes from Net 
+2020年04月10日 23:27:55 [    Info:97727]MergeSucceeded ,  score= 4849 
+2020年04月10日 23:27:55 [    Info:97727]writeToNet put 50 Bytes to Net 
+2020年04月10日 23:27:55 [    Info:97727]send coordinate:  D0 
+2020年04月10日 23:27:55 [    Info:97727]readFromNet get 180 Bytes from Net 
+2020年04月10日 23:27:55 [    Info:97727]Connection closed by server 
+2020年04月10日 23:27:55 [    Info:97727]GameOver!! 
+2020年04月10日 23:27:55 [    Info:97727]FinalScore:  4921 FinalStep:  163 FinalMaxValue:  7 
+2020年04月10日 23:27:55 [    Info:97727]Disconnected from 192.168.80.230 : 5000 

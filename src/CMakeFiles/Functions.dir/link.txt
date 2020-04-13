@@ -1,0 +1,2 @@
+/usr/bin/ar cr libFunctions.a  CMakeFiles/Functions.dir/argument.cpp.o CMakeFiles/Functions.dir/md5.cpp.o CMakeFiles/Functions.dir/mto10.cpp.o CMakeFiles/Functions.dir/read_config.cpp.o CMakeFiles/Functions.dir/RingBuffer.cpp.o CMakeFiles/Functions.dir/logging.cpp.o CMakeFiles/Functions.dir/network.cpp.o CMakeFiles/Functions.dir/solve.cpp.o
+/usr/bin/ranlib libFunctions.a
